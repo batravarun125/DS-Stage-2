@@ -1,0 +1,9 @@
+Our entity is books.
+
+The attributes are:
+	title - (name of the book)
+	author
+	rating
+	format - (eg., paperback, hardcover, etc.)
+
+Each table contains 3000 tuples.
