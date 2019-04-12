@@ -8,21 +8,21 @@ import time
 
 agent = requests.utils.default_headers()
 agent.update({
-    "User-Agent":'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+    "User-Agent":'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36',
 })
 
 # Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
 agent = {'User-Agent' : 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'}
 #agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0'}
 #arr = ["https://www.amazon.com/s?k=fiction&i=stripbooks&ref=nb_sb_noss","https://www.amazon.com/s?k=mystery&i=stripbooks&ref=nb_sb_noss","https://www.amazon.com/s?k=mystery&i=stripbooks&ref=nb_sb_noss","https://www.amazon.com/s?k=sex&i=stripbooks&ref=nb_sb_noss","https://www.amazon.com/s?k=dating&i=stripbooks&ref=nb_sb_noss","https://www.amazon.com/s?k=religion&i=stripbooks&ref=nb_sb_noss"]
-arr = ["https://www.amazon.com/s?k=love&i=stripbooks&ref=nb_sb_noss","https://www.amazon.com/s?k=sex&i=stripbooks&ref=nb_sb_noss","https://www.amazon.com/s?k=religion&i=stripbooks&ref=nb_sb_noss"]
+arr = ["https://www.amazon.com/s?k=dating&i=stripbooks&ref=nb_sb_noss","https://www.amazon.com/s?k=sex&i=stripbooks&ref=nb_sb_noss","https://www.amazon.com/s?k=religion&i=stripbooks&ref=nb_sb_noss"]
 
 mainPage = requests.get(arr[0], headers=agent)
 arr_count = 1
-csv = open("test_var.csv", "w", encoding='utf=8')
+csv = open("test_var2.csv", "w", encoding='utf=8')
 f = open("mainPage_2.txt", "w", encoding='utf=8')
 f1 = open("bookPage_2.txt", "w", encoding='utf=8')
-csv.write("title, author, rating, format, price, year\n")
+csv.write("name, author, rating, format, year\n")
 
 f.write(str(mainPage.content))
 
@@ -30,9 +30,9 @@ count = 0
 while mainPage.status_code == 200:
     # print(arr[0])
     parsed = soup(mainPage.content, 'html.parser')
-    #print(parsed)
+    # print(parsed)
     mainPage.close()
-    print(parsed.findAll("div",{"class":"sg-row"}))
+    # print(parsed.findAll("div",{"class":"sg-row"}))
     books = parsed.findAll("div", {"class":"sg-col-20-of-24 s-result-item sg-col-0-of-12 sg-col-28-of-32 sg-col-16-of-20 sg-col sg-col-32-of-36 sg-col-12-of-16 sg-col-24-of-28"})
     #books = parsed.findAll("div", {"class":"sg-col-20-of-24 s-result-item sg-col-0-of-12 sg-col-28-of-32 sg-col-16-of-20 sg-col sg-col-32-of-36 sg-col-12-of-16 sg-col-24-of-28"})
 # sg-col-20-of-24 s-result-item sg-col-0-of-12 sg-col-28-of-32 sg-col-16-of-20 sg-col sg-col-32-of-36 sg-col-12-of-16 sg-col-24-of-28
@@ -80,6 +80,7 @@ while mainPage.status_code == 200:
             rating = ''
         else:
             rating = rating.text
+            rating = rating.split()[0]
         
         print("Rating: " + rating)
         p1 = books[i].find("div", {"class":"a-section a-spacing-none a-spacing-top-small"})
@@ -98,7 +99,7 @@ while mainPage.status_code == 200:
         price = price + priceDecimal
         print("Price: " + price)
 
-        ans = str(title.text).replace(",", "~") + "," + str(authorName).replace(",", "~") + "," + str(rating).replace(",", "~") + "," + str(bookFormat).replace(",", "~") + "," + str(price).replace(",", "~") + "," + str(year).replace(",", "~") +"\n"
+        ans = str(title.text).replace(",", "~") + "," + str(authorName).replace(",", "~") + "," + str(rating).replace(",", "~") + "," + str(bookFormat).replace(",", "~") + "," + str(year).replace(",", "~") +"\n"
         csv.write(ans)
         # with csv:
         #     spamwriter = csv.writer(csv, delimiter='~')

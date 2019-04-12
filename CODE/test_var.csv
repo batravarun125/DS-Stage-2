@@ -1,17 +1,513 @@
-title, author, rating, format, price, year
-Love,Matt de la Peña,4.4 out of 5 stars,Hardcover,13.59,2018
-Money Can't Buy Love 1: A Billionaire Bad Boy Romance,Ali Parker,4.5 out of 5 stars,Kindle,0.00,2017
-A Love Letter Life: Pursue Creatively. Date Intentionally. Love Faithfully.,,4.9 out of 5 stars,Audible Audiobook,0.00,2019
-Love at First Bark (Free Short Story): A Novella for Dog Lovers (Love Unleashed Book 0),Dana Mentink,4.5 out of 5 stars,Kindle,0.00,2017
-Love and Respect: The Love She Most Desires; the Respect He Desperately Needs,,4.6 out of 5 stars,Audible Audiobook,0.00,2016
-Love Does: Discover a Secretly Incredible Life in an Ordinary World,Bob Goff,4.8 out of 5 stars,Kindle,9.99,2012
-A Hug and a Kiss is Every Baby's Bliss: How Your Baby Learns to Love: Your Baby Learns to be Affectionate when He Feels Your Love for Him. Hugs and Kisses ... Books for 3 year Old (Baby Giraffe Book 2),Melissa Winn,4.9 out of 5 stars,Kindle,0.00,2019
-The Five Love Languages: The Secret to Love That Lasts,,4.8 out of 5 stars,Audible Audiobook,0.00,2004
-Redeeming Love,,4.9 out of 5 stars,Audible Audiobook,0.00,2008
-A Suite Deal: A Clean Small-Town Romance (Suite Love in Buttermilk Falls Book 1),Sue Gibson,3.9 out of 5 stars,Kindle,0.00,2019
-The Love Dare,Alex Kendrick,4.7 out of 5 stars,Paperback,12.31,2013
-Eat~ Pray~ Love: One Woman's Search for Everything Across Italy~ India~ and Indonesia,,4.3 out of 5 stars,Audible Audiobook,0.00,2006
-The Greatest Love Story Ever Told: An Oral History,,4.0 out of 5 stars,Audible Audiobook,0.00,2018
-Love and Lemons Every Day: More than 100 Bright~ Plant-Forward Recipes for Every Meal,Jeanine Donofrio,4.9 out of 5 stars,Hardcover,22.48,2019
-I Love Capitalism!: An American Story,,4.5 out of 5 stars,Audible Audiobook,0.00,2018
-Enticed by a Thug Love 3,,4.9 out of 5 stars,Kindle Edition,0.00,2019
+name, author, rating, format, year
+The Beautiful Mystery: A Chief Inspector Gamache Novel,Louise Penny,4.5,Paperback,2013
+A Dead End (A Saints & Strangers Cozy Mystery Book 1),Keeley Bates,4.3,Kindle,2015
+The Girl Who Lived: A Thrilling Suspense Novel,Christopher Greyson,4.4,Paperback,2017
+If She Knew (A Kate Wise Mystery—Book 1),Blake Pierce,4.3,Kindle,2018
+His Last Goodbye / A Legend Never Dies: 2 Book Bell Hath No Fury Crime Thriller Box Set,,,Kindle Edition,2019
+Long Road to Mercy (An Atlee Pine Thriller),David Baldacci,4.0,Kindle,2018
+Loose Ends: A Private Investigator Crime and Suspense Mystery Thriller (California Corwin P. I. Mystery Series Book 1),D. D. VanDyke,4.0,Kindle,2014
+Brownies & Betrayal (Sweet Bites Mysteries~ Book 1),Heather Justesen,4.4,Kindle,2012
+Beyond Secrets~ The Art of Murder: A Madison Hart Mystery (Madison Hart Mysteries Book 1),DB Jones,4.1,Kindle,2015
+The Other Woman: A Novel,Daniel Silva,4.4,Kindle,2018
+THE CASTLE MYSTERY an absolutely gripping whodunit full of twists,,4.4,Kindle,2019
+Up from the Sea: A Whose Waves These Are Novella,Amanda Dykes,5.0,Kindle,2019
+Someone Else’s Daughter: Book I (A Miranda's Rights Mystery 1),Linsey Lanier,4.4,Kindle,2014
+Stealing Power: Absolutely gripping crime fiction full of unputdownable mystery and suspense (Detectives Kane and Colt Crime Thriller Series Book 1),Bo Brennan,4.2,Kindle,2014
+Honeymoon Cottage (A Pajaro Bay Mystery Book 1),Barbara Cool Lee,4.4,Kindle,2015
+The Kimberley Secret: A Jack Rogan Mysteries Prequel,Gabriel Farago,4.4,Kindle,2018
+A Stoneybrook Mystery Collection: A Cozy Mystery Box Set Books 1-3,Eryn  Scott,,Kindle,2019
+Scraps of Paper (The First Spookie Town Murder Mystery Book 1),Kathryn Meyer Griffith,4.5,Kindle,2013
+Last Call: A twisty~ fun PI Mystery (The Janet Black Mystery Series Book 1),Libby Kirsch,4.4,Kindle,2018
+STILL I WILL FOLLOW (A Miller's Creek Novel Book 7),Cathy Bryant,4.9,Kindle,2017
+A BRIDGE UNBROKEN (A Miller's Creek Novel Book 5),Cathy Bryant,4.7,Kindle,2014
+Bed and Breakfast and Murder (Fiona Fleming Cozy Mysteries Book 1),Patti Larsen,4.3,Kindle,2017
+Swamp Spook (A Miss Fortune Mystery Book 13),Jana DeLeon,4.9,Kindle,2018
+The Chef,James Patterson,3.1,Kindle,2019
+The Killer Collective,Barry Eisler,4.3,Kindle,2019
+Jabez: A Christian Inspirational Novella  Book 1.5 (After 2),Joy Ohagwu,4.4,Kindle,2016
+Once Gone (a Riley Paige Mystery--Book #1),Blake Pierce,4.3,Kindle,2015
+Season of the Raven: A Servant of the Crown Mystery (Volume 1),Denise Domning,4.4,Paperback,2014
+The Loch Ness Papers (A Scottish Bookshop Mystery Book 4),Paige Shelton,4.2,Kindle,2019
+All Eyes on Me (A Miranda and Parker Mystery Book 1),Linsey Lanier,4.3,Kindle,2014
+The Tale Teller: A Leaphorn~ Chee & Manuelito Novel~ Book 4,,4.6,Audible Audiobook,2019
+Before he Kills (A Mackenzie White Mystery—Book 1),Blake Pierce,4.4,Kindle,2016
+The Tale Teller: A Leaphorn~ Chee & Manuelito Novel~ Book 4,,4.6,Audible Audiobook,2019
+Before he Kills (A Mackenzie White Mystery—Book 1),Blake Pierce,4.4,Kindle,2016
+Murder & Mayhem (Cryptic Cove Cozy Mystery Series Book 1),K.P. Stafford,4.0,Kindle,2016
+Lady Rample Steps Out (Lady Rample Mysteries Book 1),Shéa MacLeod,4.1,Kindle,2017
+Origin: A Novel (Robert Langdon),Dan Brown,4.2,Kindle,2017
+Sign Off (Caught Dead in Wyoming mystery series~ Book 1),Patricia McLinn,4.3,Kindle,2015
+The Book of Mysteries,,4.8,Audible Audiobook,2016
+THE WINTER MYSTERY an absolutely gripping whodunit full of twists,,4.1,Kindle,2018
+THE RIVERBOAT MYSTERY an absolutely gripping whodunit full of twists,,4.3,Kindle,2019
+Goliath (A Ryan Mitchell Thriller Book 1),Richard Turner,4.1,Kindle,2014
+Cause to Kill (An Avery Black Mystery—Book 1),Blake Pierce,4.3,Kindle,2016
+The Girl Who Lived: A Thrilling Suspense Novel,Christopher Greyson,4.4,Kindle,2017
+Against The Odds (Anna Dawson Book 1): Anna Dawson Mystery Series,Mara Jacobs,4.3,Kindle,2013
+Marigolds and Murder (Port Danby Cozy Mystery Book 1),London Lovett,4.3,Kindle,2017
+The Silent Corner: A Novel of Suspense (Jane Hawk Book 1),Dean Koontz,4.3,Kindle,2017
+Cozy Mysteries Cookbook: Recipes from Hope Callaghan's Cozy Mystery Books,Hope Callaghan,4.2,Kindle,2017
+The Fallen (Memory Man series Book 4),David Baldacci,4.6,Kindle,2018
+Deadly Stillwater: A compelling crime thriller (Mac McRyan Mystery Series Book),Roger Stelljes,4.4,Kindle,2014
+Big Numbers (Austin Carr Mystery Book 1),Jack Getze,4.2,Kindle,2013
+Murder In The Dark: a gripping crime mystery full of twists,Betsy Reavley,4.0,Kindle,2018
+Death in Room 7 (Pine Lake Inn Cozy Mystery Book 1),K.J. Emrick,4.4,Kindle,2015
+Buried Secrets: A gripping thriller you won’t be able to put down,,4.2,Paperback,2017
+Sing Roses For Me (Max Allen Book 1),Ben Marney,4.6,Kindle,2017
+Past Crimes: A Compendium of Historical Mysteries,Ashley Gardner,4.3,Kindle,2017
+Deadly Gamble: A Girl and Her Dog Cozy Mystery (Charlie Parker Mystery Book 1),Connie Shelton,4.2,Kindle,2009
+Something Read Something Dead: A Lighthouse Library Mystery,Eva Gates,4.4,Kindle,2019
+Sweets and a Stabbing (The Pink Cupcake Mysteries Book 1),Harper Lin,4.6,Kindle,2016
+Louisiana Longshot (A Miss Fortune Mystery~ Book 1),Jana DeLeon,4.6,Kindle,2013
+The Sleeping Girls: A Riveting Mystery,James Hunt,4.5,Kindle,2019
+Hold On! - Season 1: An Action Thriller,Peter Darley,4.4,Kindle,2015
+The Dead and the Missing (Adam Park Thriller Book 1),A. D. Davies,4.0,Kindle,2015
+Footprints in the Frosting (Holly Hart Cozy Mystery Series Book 1),Laura Pauling,4.3,Kindle,2015
+Murder in the Art Gallery: A Pet Portraits Cozy Mystery (Book 1),Sandi Scott,4.4,Kindle,2017
+Cliffhanger (The Belinda & Bennett Mysteries~ Book One),Amy Saunders,4.0,Kindle,2012
+An Artless Demise (A Lady Darby Mystery),Anna Lee Huber,4.8,Paperback,2019
+Turn the Tide,Katie Ruggle,4.6,Kindle,2019
+Lights! Camera! Puzzles!: A Puzzle Lady Mystery (Puzzle Lady Mysteries),Parnell Hall,3.0,Kindle,2019
+A Blooms~ Bones and Stones Cozy Mystery Boxed Set Books 1 to 6,Olivia Swift,4.6,Kindle,2019
+Total Control,David Baldacci,4.5,Kindle,2002
+Kayla Michelle Three-Book Cozy Mystery Set,Kayla Michelle,4.6,Kindle,2019
+RANCOUR: A gripping murder mystery set on the west coast of Scotland (Detective Inspector Munro murder mysteries Book 8),Pete Brassett,4.5,Kindle,2018
+Barbecue~ Bourbon and Bullets: A HoneyBun Shop Mystery (HoneyBun Shop Mysteries Book 2),M.E. Harmon,4.1,Kindle,2015
+Broken Bone China (A Tea Shop Mystery),Laura Childs,4.4,Hardcover,2019
+Three Seconds To Rush (Piper Anderson Legacy Mystery Book 1),Danielle Stewart,4.3,Kindle,2016
+Death of a Cantankerous Old Coot (Lizzie Crenshaw Mysteries Book 1),Teresa Watson,4.3,Kindle,2011
+Death of a Celebrity (Book 1 of a Harriet Rose Cozy Murder Mystery Series) (Harriet Rose Humorous Cozy Murder Mysteries),Eleanor Calder,4.0,Kindle,2015
+Dealing With The Duchess (Mayfair Book 1),JR Salisbury,4.0,Kindle,2016
+In the Line of Ire (Lexi Graves Mysteries Book 13),Camilla Chafer,4.9,Kindle,2019
+In the Line of Ire (Lexi Graves Mysteries Book 13),Camilla Chafer,4.9,Kindle,2019
+Death of a Dapper Snowman (Stormy Day Mystery Book 1),Angela Pepper,4.3,Kindle,2017
+Pelican Cove Cozy Mystery Series Box Set 1: Books 1-4 in Pelican Cove Cozy Mysteries,Leena Clover,5.0,Kindle,2019
+Bakeries and Bones (A Westford Bay B&B Cozy Mystery - Book Zero),Nic Roberts,4.2,Kindle,2017
+True Confections: An Amish Cupcake Cozy Mystery,Ruth Hartzler,4.7,Kindle,2019
+Murder at the Ladies Club: A Violet Carlyle Cozy Historical Mystery (The Violet Carlyle Mysteries Book 9),Beth Byers,4.9,Kindle,2019
+Hitting the Books (A Library Lover's Mystery Book 9),Jenn McKinlay,4.5,Kindle,2018
+A Trace of Death (A Keri Locke Mystery--Book #1),Blake Pierce,4.5,Kindle,2016
+Loss Of Reason: A Thriller (State Of Reason Mystery~ Book 1),Miles A. Maxwell,4.2,Kindle,2015
+Family Ghouls (A Greek Ghouls Mystery Book 1),Alex A. King,4.1,Kindle,2017
+Deadhead and Buried (English Cottage Garden Mysteries ~ Book 1) (The English Cottage Garden Mysteries),H.Y. Hanna,4.5,Kindle,2019
+The Forgotten Painting: A Historical Mystery Novella,Gabriel Farago,4.4,Kindle,2016
+From Garden To Grave (The Leafy Hollow Mysteries Book 1),Rickie Blair,4.5,Kindle,2017
+The Murder Files - 8 Stories of Murder~ Lies and Mystery: (A thriller and suspense short story collection),Terry Keys,3.5,Kindle,2017
+A Stab in the Dark: (A Whodunit Antiques Cozy Mystery Book 2),Shelly West,4.8,Paperback,2019
+K.M. Morgan Eleven-Book Cozy Mystery Set,K.M. Morgan,4.2,Kindle,2019
+Gone The Next (Roy Ballard Mysteries Book 1),Ben Rehder,4.5,Kindle,2012
+The Northminster Mysteries Box Set 1: Books 1-3 (The Northminster Mysteries Box Sets),Harriet Smart,3.8,Kindle,2018
+Due Process (Joe Dillard Series Book 9),Scott Pratt,4.7,Kindle,2018
+Sea Changes: Sea Adventure Women's Fiction (Seafarers Book 1),Ruth Hay,4.2,Kindle,2015
+Deadly Dancing (Mars Cannon Book 1),Nicolette Pierce,4.1,Kindle,2012
+An Innocent Client (Joe Dillard Series Book 1),Scott Pratt,4.5,Kindle,2013
+Two Tocks before Midnight: A 19th Century Historical Murder Mystery Novella (The Agora Mystery Series Book 1),Clay Boutwell,4.4,Kindle,2012
+Divine Secrets: A Divine Cozy Mystery (Divine Christian Cozy Mysteries Series Book 2),Hope Callaghan,4.9,Kindle,2019
+Previous Confections: An Amish Cupcake Cozy Mystery,Ruth Hartzler,4.9,Kindle,2019
+Invitation Only Murder (A Lucy Stone Mystery),Leslie Meier,,Hardcover,2019
+Breaker: (Charlie Cobb Book #1: Fast-paced Vigilante Justice Thrillers),Rob Aspinall,4.0,Kindle,2017
+Greed: An Amber Monroe Crime Thriller Book 1,C.M. Sutter,4.2,Kindle,2018
+Color Me Crazy: A Cozy Mystery (An Annie Addison Cozy Mystery Book 1),Molly Dox,3.9,Kindle,2014
+Rolling Out a Mystery: Christian Cozy Mystery (A Baker’s Dozen Cozy Mystery Book 2),,,Kindle,2019
+Dark Falls (Dark Falls~ CO Romantic Thriller Book 1),Lori Ryan,4.4,Kindle,2018
+The Good Knight (The Gareth & Gwen Medieval Mysteries Book 1),Sarah Woodbury,4.2,Kindle,2011
+Rolling Out a Mystery: Christian Cozy Mystery (A Baker’s Dozen Cozy Mystery Book 2),,,Kindle,2019
+Dark Falls (Dark Falls~ CO Romantic Thriller Book 1),Lori Ryan,4.4,Kindle,2018
+The Good Knight (The Gareth & Gwen Medieval Mysteries Book 1),Sarah Woodbury,4.2,Kindle,2011
+The Others (Haunted From Without - Book One)  : A Mystery & Detective Paranormal Action & Adventure Medical Thriller Conspiracy,,4.0,Kindle,2018
+The mysteries of Huhlvan: Lilac,,,Kindle,2019
+The David Wolf Mystery Thriller Series: Books 1-4 (The David Wolf Series Box Set),Jeff Carson,4.7,Kindle,2017
+Waiter~ There's a Clue In My Soup! Five Mystery Stories,Camille LaGuire,3.6,Kindle,2010
+Past Crimes: A Compendium of Historical Mysteries,Ashley Gardner,4.3,Kindle,2017
+Witches of the West: A collection of Cozy Witch Mysteries,Alexandria Clarke,4.7,Kindle,2018
+Killer Cupcakes (Lexy Baker Cozy Mystery Series Book 1),Leighann Dobbs,3.8,Kindle,2012
+An Affair to Dismember (Matchmaker Mysteries Book 1),Elise Sax,4.2,Kindle,2017
+Center Stage: Magnolia Steele Mystery #1,Denise Grover Swank,4.4,Kindle,2016
+Sunshine Hunter (A Susan Hunter Mystery Book 1),Maddie Cochere,3.9,Kindle,2013
+Summer of the Woods (The Virginia Mysteries),Steven K. Smith,4.7,Paperback,2013
+Darcy Sweet Mystery - Books One to Six: Box Set One (Darcy Sweet Mystery Box Set Book 1),K.J. Emrick,4.5,Kindle,2014
+A Terminal Agenda (The Severance Series Book 1),Mark McKay,4.3,Kindle,2015
+Wine's Up? (Rosemary Harbor Mystery Book 1),Wendy Meadows,4.5,Kindle,2019
+Drained (An Agent Hank Rawlings FBI Thriller Book 1),E.H. Reinhard,4.1,Kindle,2015
+Enoch's Vault (Alex McEwan Mysteries Book 1),Richard Mosses,5.0,Kindle,2014
+The Moor: A DCI Ryan Mystery (The DCI Ryan Mysteries Book 12),LJ Ross,,Kindle,2019
+Iced in Alaska (Flight Risk Cozy Mystery Book 10),Susan Harper,4.6,Kindle,2019
+Closure: Jack Randall #1,Randall Wood,4.6,Kindle,2009
+His Hand In the Storm: Gray James Detective Murder Mystery and Suspense (Chief Inspector Gray James Detective Murder Mystery Series Book 1),Ritu Sethi,4.0,Kindle,2018
+The Odd Mystery of the Cursed Duke: A Clean & Sweet Regency Historical Romance Novel,,4.7,Kindle Edition,2019
+Made in Savannah Cozy Mysteries Box Set II: (Books 4-6 in the Made in Savannah Cozy Mystery Series),Hope Callaghan,4.9,Kindle,2019
+Murder on The Mind (The Jeff Resnick Mystery Series Book 1),L.L. Bartlett,4.3,Kindle,2008
+Murder in Park Lane (The Detective Lavender Mysteries Book 5),Karen Charlton,4.9,Kindle,2019
+Cream Puff Murder: A Seagrass Sweets Cozy Mystery (Book 1),Sandi Scott,4.4,Kindle,2016
+Happiness is a Smoking Gun (A Clarissa Spencer Cozy Mystery Book 1),Alaine Allister,4.1,Kindle,2015
+FLYING SAUCER AT CEARÁ: ABDUCTION IN CEARÁ (mystery Book 1),,,Kindle Edition,2019
+A Killer Thriller Collection - Eight The Hard Way (Mystery Thriller Suspense),Nick Stephenson,3.8,Kindle,2013
+Ring Around the Rosie (An Olivia Thompson Mystery Book 1),Jullian Scott,4.0,Kindle,2016
+A Killer Thriller Collection - Eight The Hard Way (Mystery Thriller Suspense),Nick Stephenson,3.8,Kindle,2013
+Ring Around the Rosie (An Olivia Thompson Mystery Book 1),Jullian Scott,4.0,Kindle Edition,2016
+Dying Eyes (Brian McDone Mysteries Book 1),Ryan Casey,3.7,Kindle,2013
+Obsidian Murder: A Violet Carlyle Cozy Historical Mystery (The Violet Carlyle Mysteries Book 8),Beth Byers,4.6,Kindle,2019
+Retribution: A Psychic Detective Kate Pierce Crime Thriller Book 1 (Psychic Detective Kate Pierce Crime Thriller Series),C.M. Sutter,4.5,Kindle,2018
+Come What May: A Private Investigator Series of Crime and Suspense Thrillers (The Malone Mystery Novels Book 1),Larry Darter,4.1,Kindle,2016
+Polar Bear Dawn: A Detective Bernadette Callahan Mystery (Detective Bernadette Callahan of the Royal Canadian Mounted Police Book 1),Lyle Nicholson,4.4,Kindle,2013
+Deadly Secrets: A Mapleton Mystery,Terry Odell,4.4,Kindle,2011
+Slave Graves (River Sunday Romance Mysteries Book 1),Thomas Hollyday,4.1,Kindle,2013
+Gin & Murder: A Violet Carlyle Cozy Historical Mystery (The Violet Carlyle Mysteries Book 7),Beth Byers,4.7,Kindle,2019
+Capture Me,Anna Zaires,4.4,Kindle,2015
+The Twisted King~ The Naive Lover~ and The House of Joy and Pain: Keagan and Monae BWWM Romance (A Keagan Handcuffs and Lace Mystery Book 5),Christine Gray,4.9,Kindle,2019
+Wisteria Witches (Wisteria Witches Mysteries Book 1),Angela Pepper,4.4,Kindle,2017
+Ripley: Lost in a sea of secrets. A Haunting Mystery of Shattered Dreams,Jacqui Penn,4.5,Kindle,2015
+Reel of Fortune (A Miss Fortune Mystery Book 12),Jana DeLeon,4.9,Kindle,2018
+Artifacts of Death (Manny Rivera Mystery Series Book 1),Rich Curtin,4.6,Kindle,2011
+A Will to Murder (A Molly Wright Cozy Mystery Book 1),K.J. Emrick,3.7,Kindle,2017
+A Dangerous Collaboration (A Veronica Speedwell Mystery),Deanna Raybourn,4.7,Hardcover,2019
+Starboard Secrets: A Cruise Ship Cozy Mystery (Cruise Ship Christian Cozy Mysteries Series Book 1),Hope Callaghan,4.2,Kindle,2015
+Brass Keys to Murder (Mystery & Suspense Short Stories Collection),L. Ron Hubbard,4.0,Kindle,2009
+The Devil's Teeth (Ravenwood Mysteries Book 5),Sabrina Flynn,,Kindle,2019
+The Teacher: Penny Green Short Mystery 1,Emily Organ,4.1,Kindle,2017
+Mercy & Mayhem: A Mercy Mares Cozy Mystery Book One,Ava Mallory,3.9,Kindle,2015
+Jack in the Box: A Dead Cold Mystery,Blake Banner,5.0,Kindle,2019
+Tangerine Dream & Murder: An Oceanside Cozy Mystery Book 74,Susan Gillard,5.0,Kindle,2019
+THE OXFORD MYSTERY an absolutely gripping whodunit full of twists,,4.3,Kindle,2019
+War of the Realms: Journey Into Mystery,,,Paperback,2019
+A Hillcrest Witch Mystery Collection: Books 1 - 5,Amorette Anderson,4.9,Kindle,2019
+The Preening Peacock: A Rosalinda Alameda Mystery (a Cozy Zoo Short Story Book 1),Lisa Shea,4.0,Kindle,2015
+Murder on Lot B (Starfire Cozy Mystery Book 1),London Lovett,4.2,Kindle,2019
+Cruise Chaos: A Humorous Cruise Ship Cozy Mystery (Cruise Ship Cozy Mysteries Book 3),A.R. Winters,4.7,Kindle,2019
+An Innovative Murder for the Season (A Lt. Sinclair Plate in Sand Waves Mystery Book 1),,4.3,Kindle,2015
+An Innovative Murder for the Season (A Lt. Sinclair Plate in Sand Waves Mystery Book 1),,4.3,Kindle,2015
+The Mystery of the Magic Toilet: An Unofficial Amazing Frog Adventure,,4.0,Paperback,2018
+Murder in an Irish Pub (An Irish Village Mystery Book 4),Carlene O'Connor,4.5,Kindle,2019
+Murder on Union Square (A Gaslight Mystery),Victoria Thompson,4.0,Mass Market Paperback,2019
+Guadalupe Mysteries: Deciphering the Code,,5.0,Hardcover,2016
+The Bride Wore Coveralls (Racing Book 1),Debra Ullrick,4.6,Kindle,2017
+False Impressions (Megan Scott/Michael Elliott Mystery Book 1),Sandra Nikolai,4.2,Kindle,2012
+First Bite: Sweet & Sour Mystery~ Book 1,Mac Flynn,4.3,Kindle,2018
+Artifacts of Death (Manny Rivera Mystery Series Book 1),Rich Curtin,4.6,Kindle,2011
+Shaded Light: The Case of the Tactless Trophy Wife (The Manziuk and Ryan Mysteries Book 1),J. A. Menzies,4.3,Kindle,2013
+Murder at the Luau: A Pet Portraits Cozy Mystery,Sandi Scott,4.8,Paperback,2019
+Motto for Murder (Merry Wrath Mysteries Book 6),Leslie Langtry,5.0,Kindle,2018
+Maciek's Story (Haunted From Within - Book One):  A Mystery & Detective Paranormal Action & Adventure Medical Thriller Conspiracy,,3.9,Kindle,2018
+On the Street Where You Die (Stanley Bentworth mysteries Book 1),Al Stevens,4.3,Kindle,2011
+Dead Before The Wedding (Carly Keene Cozy Mysteries Book 1),Ruby Blaylock,4.3,Kindle,2015
+Owl Be Home for Christmas: A Meg Langslow Mystery (Meg Langslow Mysteries),Donna Andrews,,Hardcover,2019
+Dead Before The Wedding (Carly Keene Cozy Mysteries Book 1),Ruby Blaylock,4.3,Kindle,2015
+Owl Be Home for Christmas: A Meg Langslow Mystery (Meg Langslow Mysteries),Donna Andrews,,Hardcover,2019
+The Cat of Amontillado: A Cozy Mystery (The Psychic Cat Mysteries Book 1),SM Reine,5.0,Kindle,2019
+Martha Rookie Angel: A Dingebury Town Mystery (The Seventh Task),Lee Marsh,5.0,Paperback,2019
+Lady of Mystery (The Unconventional Ladies Book 1),Ellie St. Clair,4.7,Kindle,2019
+Gone Daddy Gone (Sloane Monroe Book 7),Cheryl Bradshaw,4.6,Kindle,2017
+Break-ins and Bloodshed (Hearts Grove Cozy Mystery Book 2),Danielle Collins,4.7,Kindle,2019
+Better Off Wed (Annabelle Archer Wedding Planner Mystery Book 1),Laura Durham,4.3,Kindle,2017
+The Midnight Line: A Jack Reacher Novel,Lee Child,4.3,Kindle,2017
+Chaos in the Countryside: The Novella Prequel to The Faerie Apothecary Mysteries,Astoria Wright,4.4,Kindle,2018
+Raining Men and Corpses: A Chinese Cozy Mystery (A Raina Sun Mystery Book 1),Anne R. Tan,4.2,Kindle,2014
+Murder Among the Roses: A Violet Carlyle Cozy Historical Mystery (The Violet Carlyle Mysteries Book 5),Beth Byers,4.7,Kindle,2018
+Where There's a Will: Inspector Stone Mysteries #1,Alex R Carver,4.2,Kindle,2017
+The Donut Mysteries Cookbook,Jessica Beck,,Paperback,2019
+Reckless: Book 1 of the Mia Kazmaroff Mysteries (Mia Kazmaroff Mystery Series),Susan Kiernan-Lewis,4.0,Kindle,2014
+Books~ Barbecue and Murder: A Story Tree cozy Mystery Book 5,,2.0,Kindle,2019
+THE BIRTHDAY MYSTERY an absolutely gripping whodunit,,4.0,Paperback,2018
+Witnesses to Mystery: Investigations into Christ's Relics,,4.9,Hardcover,2013
+Rosemary's Gravy (A We Sisters Three Mystery Book 1),Melissa F. Miller,4.3,Kindle,2015
+A Secret Killer (Julia Blake Cozy Mystery Book 4),Gillian Larkin,4.5,Kindle,2015
+Clubhouse Mysteries Super Sleuth Collection: The Buried Bones Mystery; Lost in the Tunnel of Time; Shadows of Caesar's Creek; The Space Mission ... Animal Show; Stars and Sparks on Stage,,4.3,Paperback,2016
+Deadly Danger (A Seeing Colors Mystery Book 2),J A Whiting,4.9,Kindle,2019
+Must Love Murder: A Sketchy Matchmaker Mystery,Etta Faire,4.5,Kindle,2016
+A Pie To Vie For (Olivia Faulkner Mysteries Book 0),Kathryn Lin,3.9,Kindle,2017
+First Touch: A Paranormal Suspense Story (Imprints Book 0),Teyla Branton,4.7,Kindle,2018
+The Bear Trap (Mike Bowditch Mysteries),Paul Doiron,4.2,Kindle,2017
+A Murderous Ride: Bunburry - A Cosy Mystery Series 2,,4.2,Audible Audiobook,2019
+A Vintage View of Murder (Sky High Pies Cozy Mysteries Book 27),Mary Maxwell,4.5,Kindle,2019
+The Killer in the Choir (A Fethering Mystery),Simon Brett,,Hardcover,2019
+The Mysteries of Harris Burdick,Chris Van Allsburg,4.7,Hardcover,1984
+The 12 Quilts of Christmas (A Harriet Truman/Loose Threads Mystery),Arlene Sachitano,,Kindle,2019
+Killer Cruise: A Humorous Cruise Ship Cozy Mystery (Cruise Ship Cozy Mysteries Book 1),A.R. Winters,4.7,Kindle,2019
+A Murderous Ride: Bunburry - A Cosy Mystery Series 2,,4.2,Audible Audiobook,2019
+Tapas~ Carrot Cake and a Corpse (A Charlotte Denver Cozy Mystery~ Culinary Cozy Mystery Book 1),Sherri Bryan,4.2,Kindle,2015
+Silent Bud Deadly (English Cottage Garden Mysteries ~ Book 2) (The English Cottage Garden Mysteries),H.Y. Hanna,4.9,Kindle,2019
+Friend of the Devil (The Bill Walton Mysteries),James Kirkland,5.0,Paperback,2019
+Murder on Trinity Place (A Gaslight Mystery),Victoria Thompson,,Hardcover,2019
+Moonshine & Murder: Moonshine Hollow #1,Kathleen Brooks,4.5,Kindle,2019
+The World Outside: Clean Amish and Motorcycle Club Romance,,4.0,Kindle,2019
+Mark of the Loon (Gen Delacourt Mystery Book 1),Molly Greene,4.5,Kindle,2013
+Snow Ordinary Family (Alaska Cozy Mystery Book 10),Wendy Meadows,4.6,Kindle,2019
+Initiation in Paradise (Paradise Series Book 17),Deborah Brown,4.8,Kindle,2019
+Ghostly Holiday (A Harper Harlow Mystery Book 11),Lily Harper Hart,5.0,Kindle,2019
+MURDER IN THE VALLEYS: A cozy Welsh crime mystery full of twists,Pippa McCathie,4.6,Kindle,2018
+Witches of The Wood: A Cozy Witch Mystery,Skylar Finn,4.6,Kindle,2019
+Red Velvet and Revenge (Peridale Cafe Cozy Mystery),Agatha Frost,4.9,Paperback,2019
+The Mystery of Catastrophe,Joel Richardson,5.0,Hardcover,2018
+Dead Reckoning (The Still Waters Suspense Series Book 1),Dawn Lee McKenna,4.5,Kindle,2017
+Dead in the Water: A Cherringham Mystery 1,,4.5,Audible Audiobook,2019
+Marriages and Murder (Hang Ten Australian Cozy Mystery Book 11),Stacey Alabaster,4.9,Kindle,2019
+Playing with Fire (Geek Girl Mysteries Book 1),Sherry D. Ficklin,4.1,Kindle Edition,2015
+Who Slays the Wicked (Sebastian St. Cyr Mystery Book 14),C. S. Harris,4.5,Kindle,2019
+[By Jonathan Cahn ] The Book of Mysteries (Paperback)【2018】by Jonathan Cahn (Author) (Paperback),,,Paperback,
+Cold Lake (David Wolf Book 5),Jeff Carson,4.5,Kindle,2014
+Very Special Forces (Lexi Graves Mysteries Book 12),Camilla Chafer,4.8,Kindle,2018
+ECHOING THE MYSTERY,,4.5,Paperback,2018
+The St. Valentine's Day Cookie Massacre (Hatter's Cove Mystery Series Book 1),Elisabeth Crabtree,4.2,Kindle,2014
+Cooking the Books (Apple Orchard Cozy Mystery Book 2),Chelsea Thomas,4.5,Kindle,2019
+Murder at the Mousetrap: Bunburry - A Cosy Mystery Series 1,,4.1,Audible Audiobook,2019
+Shot Cross Buns: A Haunted Lodge Cozy Mystery (Haunted Lodge Cozy Mysteries Book 2),Tegan Maher,3.5,Kindle,2019
+Temp Job of Murder (Lacy Steele Mystery Book 11),Vanessa Gray Bartal,4.9,Kindle,2019
+A Sinister Spell in Faerywood Falls (Mountain Magic Mysteries Book 1),Blythe Baker,4.6,Kindle,2019
+Murder in the Shallows: A Violet Carlyle Historical Mystery (The Violet Carlyle Mysteries Book 6),Beth Byers,4.4,Kindle,2019
+Murder at Benbury Brook: An absolutely gripping English cozy mystery (A Melissa Craig Mystery Book 9),Betty Rowlands,4.5,Kindle,2019
+Murder at Benbury Brook: An absolutely gripping English cozy mystery (A Melissa Craig Mystery Book 9),Betty Rowlands,4.5,Kindle,2019
+The First Faux Pas: A Lora Weaver Mystery,Katy Leen,4.2,Kindle,2013
+Prepped to Kill (Ricky Steele Mysteries Book 1),M. Lee Prescott,4.2,Kindle,2011
+A Huge Collection of Cozy Mysteries: 20 Books Box Set,Lori Woods,3.7,Kindle,2019
+Sins of the Past: A riveting suspense novel that keeps you guessing until the end (A Cooper and White Mystery Book 1),Julia Derek,3.8,Kindle,2016
+Divine Blindside: A Divine Cozy Mystery (Divine Christian Cozy Mysteries Series Book 3),Hope Callaghan,4.9,Kindle,2019
+Light Parade: A Detective Lottie King Holiday Mystery,Shelley Coriell,3.9,Kindle,2016
+Change of Fortune (A Miss Fortune Mystery) (Volume 11),Jana DeLeon,4.9,Paperback,2018
+Men~ Women~ and the Mystery of Love: Practical Insights from John Paul II’s Love and Responsibility,Edward Sri,4.8,Paperback,2015
+The Gossiping Gourmet: Murder in Marin Mystery - Book 1 (Murder in Marin Mysteries),Martin Brown,3.7,Kindle,2014
+Past Tense: A Jack Reacher Novel,Lee Child,3.9,Kindle,2018
+Sweet and Sassy Mysteries - 3 Book Series Box Set: Cozy Mystery Bundle,Maisie Dean,5.0,Kindle,2019
+Ashley Crane Cozy Mystery Boxed Set,Laurie Anne Marie,4.6,Kindle,2019
+Illusion: An Eomix Galaxy Novel (Book 1 of 2),Christa Yelich-Koth,4.5,Kindle,2015
+Mystery of History Vol 4,Linda Lacour Hobar,4.9,Hardcover,2014
+Entanglement Of Fate: Elliott's Register Mysteries: Book 1,Chris Brookes,4.1,Kindle,2013
+Vigilantes and Lovers (J.R. Finn Sailing Mystery Series Book 3),,4.7,Kindle,2019
+WALKING INTO MURDER (The Professor Laura Morland Mystery Series),Joan Dahr Lambert,3.3,Kindle,2010
+Buried (Twisted Cedar Mysteries Book 1),C. J. Carmichael,4.4,Kindle,2012
+The Mystery of Black Hollow Lane,Julia Nobel,4.8,Hardcover,2019
+The Gray and Guilty Sea: An Oregon Coast Mystery (Garrison Gage Series Book 1),Scott William Carter,4.4,Kindle,2010
+Chocolate Cream Pie Murder (A Hannah Swensen Mystery Book 24),Joanne Fluke,3.7,Kindle,2019
+Winter's Secret: Clean Wholesome Mystery and Romance (Northern Intrigue Book 1),Lyn Cote,4.4,Kindle,2013
+The Dark Canyon (A Sheriff Lansing Mystery Book 4),Micah S. Hackler,4.4,Kindle,2019
+The Mystery at Chadwick House,Kate Parker,4.3,Kindle,2019
+The Market Basing Mystery,,4.3,Kindle,2019
+Foreclosed: A Mitzy Neuhaus Mystery,Traci Tyne Hilton,3.6,Kindle,2014
+The Mystery of Smugglers Cove (FREE BOOKS FOR KIDS CHILDREN MIDDLE GRADE MYSTERY ADVENTURE) (The Mystery Series Book 1),Paul Moxham,4.4,Kindle,2014
+Little Dead Riding Hood: A Dead Cold Mystery,Blake Banner,4.7,Kindle,2018
+Murder in the House of Beads: A Mystery in Paradise (House of Beads Cozy Mystery Series Book 1),Mary Jane Forbes,4.3,Kindle,2012
+Hollywood Assassin: A Psychological Suspense Thriller Book 1 (A Hollywood Alphabet Series Thriller),M.Z. Kelly,4.1,Kindle,2014
+The Case of the Love Spell: A Hillcrest Witch Mystery (Hillcrest Witch Cozy Mystery Book 0),Amorette Anderson,4.7,Kindle,2018
+Shot Through the Hearth (A Fixer-Upper Mystery),Kate Carlisle,,Mass Market Paperback,2019
+Edit to Death (A Myrtle Clover Cozy Mystery Book 14),Elizabeth Spann Craig,5.0,Kindle,2019
+The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else,,4.2,Paperback,2003
+Blood Into Wine: A Dead Cold Mystery,Blake Banner,4.5,Kindle,2019
+Cooks~ Crooks and Cruises: A Humorous Cruise Ship Cozy Mystery (Cruise Ship Cozy Mysteries Book 2),A.R. Winters,4.9,Kindle,2019
+The Betrayal of Lies~ Mystery with a Romantic Twist (Paradise Valley Mystery Series Book 5),Debra Burroughs,4.7,Kindle Edition,2013
+About Thyme (The Thyme Witch Mysteries Book 1),Karny McFlynn,3.7,Kindle,2017
+Murder in Chicago: Northwest Cozy Mystery Series,Dianne Harman,4.0,Kindle,2019
+The Murder Pit (A Moose River Mystery Book 1),Jeff Shelby,4.2,Kindle,2014
+Baking is Murder (Bee's Bakehouse Mysteries Book 1),Kathy Cranston,4.2,Kindle,2016
+To Spell With It (A Moonstone Bay Cozy Mystery Book 4),Amanda M. Lee,,Kindle,2019
+Vegetables and Vengeance (Peridale Cafe Cozy Mystery Book 17),Agatha Frost,,Kindle,2019
+Miss Frost Solves A Cold Case: A Nocturne Falls Mystery (Jayne Frost Book 1),Kristen Painter,4.6,Kindle,2016
+Bunburry - Drop Dead~ Gorgeous: A Cosy Mystery Series (Countryside Mysteries: A Cosy Shorts Series Book 5),Helena Marchmont,,Kindle,2019
+The Affair of the Hideous Vase: A Short Silly Cozy Mystery,B.T. Alive,4.5,Kindle,2019
+Wave of Deception: A Murder on Maui Mystery,Robert W Stephens,4.4,Kindle,2019
+Dyeing Season (Dewberry Farm Mysteries Book 5),Karen MacInerney,4.9,Kindle,2019
+A Murder Spells Trouble (The Kilorian Sisters: A Witches of Shadow Lake Mystery Book 1),K.J. Emrick,4.1,Kindle,2017
+Dead Cold Mysteries Box Set #1: Books 1-4 (A Dead Cold Box Set),Blake Banner,4.7,Kindle,2017
+Girl with a Gun: An Annie Oakley Mystery,,4.1,Kindle,2018
+The Devil's Deal (A Raine Stockton Dog Mystery Book 13),Donna Ball,4.6,Kindle,2018
+Let Us Prey: Gotcha Detective Agency Mystery Book 1,Jamie Lee Scott,4.3,Kindle,2011
+A Merry Little Murder: A Violet Carlyle Cozy Historical Mystery (The Violet Carlyle Mysteries Book 4),Beth Byers,4.3,Kindle,2018
+Dream Fragments: Stories from the Dream Doctor Mysteries,J.J. DiBenedetto,4.2,Kindle,2015
+Murder Al Dente: The 9th Nikki Hunter mystery (Nikki Hunter mysteries),Nancy Skopin,4.8,Kindle,2019
+Pumpkin Spice Murder (Frosted Love Cozy Mysteries Book 17),Summer Prescott,4.6,Kindle,2019
+The Assignment,Geraldine Solon,4.0,Kindle,2012
+Cupcakes~ Trinkets~ and Other Deadly Magic (Dowser Series Book 1),Meghan Ciana Doidge,4.4,Kindle,2014
+Sleeping Dogs Don't Lie: An Animal Cozy Mystery (Albertus Eagle Detective Beagle Book 1),Chloe Grace,,Kindle,2019
+Something Read Something Dead: A Lighthouse Library Mystery,Eva Gates,4.4,Hardcover,2019
+Fatal Flirtation: A Cruise Ship Mystery (Cruise Ship Christian Cozy Mysteries Series Book 13),Hope Callaghan,4.9,Kindle,2018
+Dark Drizzles (The Donut Mysteries Book 40),Jessica Beck,5.0,Kindle,2019
+Sleeping Dogs Don't Lie: An Animal Cozy Mystery (Albertus Eagle Detective Beagle Book 1),Chloe Grace,,Kindle,2019
+Fatal Flirtation: A Cruise Ship Mystery (Cruise Ship Christian Cozy Mysteries Series Book 13),Hope Callaghan,4.9,Kindle,2018
+Dark Drizzles (The Donut Mysteries Book 40),Jessica Beck,5.0,Kindle,2019
+Murder at the Mayan Temple (A Christian Cozy Mystery) (Starling and Swift Book 1),Mary Jane Hathaway,4.2,Kindle,2017
+The Mystery of History~ Vol. 3: The Renaissance~ Reformation~ and Growth of Nations,Linda Lacour Hobar,3.9,Hardcover,2008
+The Adrien English Mysteries 2: Books 4 - 6,Josh Lanyon,,Kindle,2019
+Cozy Case Files: A Cozy Mystery Sampler~ Volume 2,,3.7,Kindle,2017
+Conclusive Evidence: A Novel,Al Macy,4.9,Kindle,2019
+Something Borrowed~ Something Blue and Murder (Fiona Fleming Cozy Mysteries Book 12),Patti Larsen,4.8,Kindle,2019
+Life's a Beach Then You Die (Max Fried Mystery Book 1),Falafel Jones,4.0,Kindle,2013
+Poisoned Pages (A Booktown Mystery Book 12),Lorna Barrett,4.5,Kindle,2018
+The Obituary Society (An Obituary Society Novel Book 1),Jessica L. Randall,4.2,Kindle,2014
+Manuscripts and Deadly Motives (Dune House Cozy Mystery Series Book 15),Cindy Bell,4.7,Kindle,2019
+The Ascension Mysteries: Revealing the Cosmic Battle Between Good and Evil,David Wilcock,4.6,Paperback,2017
+Bat Wings~ Rings & Apron Strings: A Cozy Witch Mystery (Spells & Caramels Book 10),Erin Johnson,4.9,Kindle,2019
+Sharp Shooter (Tara Sharp Book 1),Marianne Delacourt,4.3,Kindle,2016
+A Witch to Remember: A Wishcraft Mystery,Heather Blake,5.0,Kindle,2019
+Senoia Cozy Mystery Boxed Set: Books 1 - 12,Susan Harper,4.7,Kindle,2018
+The Bloodstained Bride: A gripping mystery with suspense and romance (A Palmchat Islands Mystery Book 4),Rachel Woods,4.7,Kindle,2019
+Six Cats a Slayin' (Cat in the Stacks Mystery Book 10),Miranda James,4.6,Kindle,2018
+Coyote Returns (A Sheriff Lansing Mystery Book 2),Micah S. Hackler,4.5,Kindle,2018
+Whispering Pines Mysteries Box Set: Books 1-3,Shawn McGuire,4.9,Kindle,2018
+Unbeliever (Psychological Suspense Novella) (Psychological Suspense Mystery Book 1),Paul Western-Pittard,4.3,Kindle,2014
+This Spells Trouble (Private Eye Witch Cozy Mystery Book 1),Stacey Alabaster,4.1,Kindle,2019
+Plotting for Murder (Cozy Mystery Bookshop Series (Large Print)),,,Paperback,2019
+Moon Signs (Moon Mystery Series Book 1),Helen Haught Fanick,4.1,Kindle,2011
+The Mystery of Hurtleberry House (The Reboot Files Book 1),C.L. Ragsdale,3.9,Kindle,2011
+Muddy Waters (The Leafy Hollow Mysteries Book 4),Rickie Blair,4.8,Kindle,2017
+The Root of Murder (Lovers in Crime Mystery Book 4),Lauren Carr,4.8,Kindle,2019
+The Burning Issue of the Day (A Lady Hardcastle Mystery Book 5),T E Kinsey,,Kindle,2019
+The Case of the Valiant Vizsla (The Thousand Islands Doggy Inn Mysteries Book 23),B.R. Snow,4.7,Kindle,2019
+No Scone Unturned (Lexy Baker Cozy Mystery Series Book 12),Leighann Dobbs,4.4,Kindle,2016
+The Mystery of Hurtleberry House (The Reboot Files Book 1),C.L. Ragsdale,3.9,Kindle,2011
+Muddy Waters (The Leafy Hollow Mysteries Book 4),Rickie Blair,4.8,Kindle,2017
+The Root of Murder (Lovers in Crime Mystery Book 4),Lauren Carr,4.8,Kindle,2019
+The Burning Issue of the Day (A Lady Hardcastle Mystery Book 5),T E Kinsey,,Kindle,2019
+The Case of the Valiant Vizsla (The Thousand Islands Doggy Inn Mysteries Book 23),B.R. Snow,4.7,Kindle,2019
+No Scone Unturned (Lexy Baker Cozy Mystery Series Book 12),Leighann Dobbs,4.4,Kindle,2016
+DON'T LIE TO ME (Eva Rae Thomas Mystery Book 1),Willow Rose,,Kindle,2019
+Paper Dolls: A David and Trait Mystery,Shane Chastain,5.0,Paperback,2019
+A Sudden Passing (A Rose Beckingham Murder Mystery Book 6),Blythe Baker,,Kindle,2019
+Turquoise Lady (A Howard Moon Deer Mystery Book 5),,4.6,Kindle,2019
+The Fixer~ Season 1: Complete: (A JC Bannister Action Thriller),Rex Carpenter,4.6,Kindle,2015
+Spirited Sweets Mysteries: Books 1-4 (Spirited Sweets Paranormal Cozy Mystery),Stephanie Damore,4.5,Kindle,2018
+The Book Supremacy (Bibliophile Mystery),Kate Carlisle,,Hardcover,2019
+Throw a Monkey Wrench (An Emma Cassidy Mystery Book 1),Karen Chester,4.3,Kindle,2016
+The Case of the Vision Spell: A Hillcrest Witch Mystery (Hillcrest Witch Cozy Mystery Book 5),Amorette Anderson,4.8,Kindle,2019
+The Absent Author (A to Z Mysteries),Ron Roy,4.5,Paperback,1997
+Throw a Monkey Wrench (An Emma Cassidy Mystery Book 1),Karen Chester,4.3,Kindle,2016
+The Case of the Vision Spell: A Hillcrest Witch Mystery (Hillcrest Witch Cozy Mystery Book 5),Amorette Anderson,4.8,Kindle,2019
+Cat Chase the Moon: A Joe Grey Mystery (Joe Grey Mystery Series),Shirley Rousseau Murphy,,Hardcover,2019
+The Absent Author (A to Z Mysteries),Ron Roy,4.5,Paperback,1997
+The Hanover Square Affair (Captain Lacey Regency Mysteries Book 1),Ashley Gardner,4.1,Kindle,2014
+First Degree Murder (Lantern Beach P.D. Book 3),Christy Barritt,4.8,Kindle,2019
+Murder in Just Cause: A Doyle & Acton Mystery (The Doyle & Acton Mystery Series Book 9),Anne Cleeland,4.5,Kindle,2019
+Peppermint Bark & Murder : A Sweet Treats Cozy Mystery Book 12,Lori Woods,4.7,Kindle,2018
+A Death Displaced (Lansin Island Paranormal Mysteries Book 1),Andrew Butcher,3.7,Kindle,2016
+Almost Midnight: A Novel (Mike Bowditch Mysteries),Paul Doiron,,Hardcover,2019
+God and the Mystery of Human Suffering: A Theological Conversation across the Ages,,5.0,Paperback,2011
+Manhattan (The Erin O'Reilly Mysteries),Steven Henry,4.5,Paperback,2019
+The Mystery of Marriage 20th Anniversary Edition: Meditations on the Miracle,Mike Mason,4.7,Paperback,2005
+The Mortal Blow (Lady Fan Mystery Book 5),Elizabeth Bailey,,Kindle,2019
+Take the Monkeys and Run (A Barbara Marr Murder Mystery~ Book 1),Karen Cantwell,4.1,Kindle,2013
+Burned to a Crisp: A Gingerbread Hag Mystery,K. A. Miltimore,5.0,Paperback,2019
+The Inspector Graham Mysteries: Books 1-4 (The Inspector David Graham Series Boxset Book 1),Alison Golden,4.6,Kindle,2017
+Reindeer & Robberies: A Cruise Ship Mystery (Cruise Ship Christian Cozy Mysteries Series Book 15),Hope Callaghan,4.8,Kindle,2018
+Detective Camp (A to Z Mysteries Super Edition~ No. 1),Ron Roy,4.5,Paperback,2006
+The Glenister Papers (The Rannoch Fraser Mysteries Book 17),Tracy Grant,,Kindle,2019
+The Mystery of Nils. Part 1 - Norwegian Course for Beginners. Learn Norwegian - Enjoy the Story.,Werner Skalla,4.8,Paperback,2014
+Witches' Brew (Witch Cozy Mystery) (Witches and Wine Book 1),Morgana Best,4.4,Kindle,2017
+The Mystery of History Volume 1~ Audio Book Set (10 Audio CDs),Linda Lacour Hobar,5.0,Audio CD,2010
+A Noël Killing (A Provençal Mystery),M. L. Longworth,,Paperback,2019
+A Sight for Psychic Eyes (Piper Ashwell Psychic P.I. Book 0),Kelly Hashway,4.5,Kindle,2018
+Murder Undeniable: a gripping murder mystery (Kat and Mouse Book 1),Anita Waller,4.3,Kindle,2018
+Best American Mystery Stories 2018 (The Best American Series ®),,4.5,Paperback,2018
+Meows~ Magic & Murder (Lake Forest Witches Book 1),Madison Johns,4.0,Kindle,2015
+Gator Bait (A Miss Fortune Mystery~ Book 5),Jana DeLeon,4.8,Kindle,2014
+Prologue to Murder (Bookstore Mystery),Lauren Elliott,,Mass Market Paperback,2019
+Tahoe Deathfall (An Owen McKenna Mystery Thriller Book 1),Todd Borg,4.5,Kindle,2001
+Gifted: A Brainrush Novella (Brainrush Series),Richard Bard,4.3,Kindle,2016
+Gator Bait (A Miss Fortune Mystery~ Book 5),Jana DeLeon,4.8,Kindle,2014
+Prologue to Murder (Bookstore Mystery),Lauren Elliott,,Mass Market Paperback,2019
+Tahoe Deathfall (An Owen McKenna Mystery Thriller Book 1),Todd Borg,4.5,Kindle,2001
+Gifted: A Brainrush Novella (Brainrush Series),Richard Bard,4.3,Kindle,2016
+Bye Bye Birdy: A Sanibel Island Mystery (Sanibel Island Mysteries),Jennifer Lonoff Schiff,5.0,Paperback,2019
+Sliced Up: A Cozy Murder Mystery,Lyndsey Cole,4.1,Kindle,2016
+Tea Leaves~ Jealousy~ and Murder (A Sullivan Sisters Mystery Book 4),Jenna St. James,4.8,Kindle,2019
+FORGET ME NOT - MARK KANE MYSTERIES - BOOK ONE: A Private Investigator Clean Mystery & Suspense Series. Murder mysteries with more Twists and Turns than a Roller Coaster.,John Hemmings,4.3,Kindle,2015
+The Mystery,Samuel Hopkins Adams,3.8,Kindle,2012
+Wishful Thinking,Bella Emy,4.6,Kindle,2019
+How to Outline A Cozy Mystery: Workbook,Sara Rosett,4.4,Paperback,2018
+The Chocolate Shark Shenanigans (Chocoholic Mystery Book 17),JoAnna Carl,,Kindle,2019
+Storm Crazy: A paranormal romance saga (Destiny Paramortals Book 1),Livia Quinn,4.2,Kindle,2014
+Old-School Witch (A Riddler's Edge Cozy Mystery #6),A.A. Albright,5.0,Kindle,2019
+A Bidder End (Antiques & Collectibles Mysteries Book 7),Ellery Adams,4.4,Kindle,2019
+The Birthday Murders (Sky High Pies Cozy Mysteries Book 26),Mary Maxwell,5.0,Kindle,2019
+In Like Flynn: A Molly Murphy Mystery (Molly Murphy Mysteries),Rhys Bowen,4.6,Paperback,2015
+Death In December - A Short Mystery: A Jayne Belmont Mystery Series (Jayne Belmont Mysteries Book 1),Shonah Stevens,4.2,Kindle,2016
+If She Saw (A Kate Wise Mystery—Book 2),Blake Pierce,4.4,Kindle,2018
+Candy Apple Killer (Apple Orchard Cozy Mystery Book 3),Chelsea Thomas,4.6,Kindle,2019
+Ballpark Mysteries: The Dugout boxed set (books 1-4),David A. Kelly,4.8,Paperback,2016
+Plum Tea Crazy (A Tea Shop Mystery),Laura Childs,4.4,Mass Market Paperback,2019
+Babylon Mystery Religion: Ancient and Modern,Ralph Woodrow,4.3,Paperback,
+Never Say Spy (The Never Say Spy Series Book 1),Diane Henders,4.3,Kindle,2011
+Eaves of Destruction (A Fixer-Upper Mystery Book 5),Kate Carlisle,4.7,Kindle,2017
+Dawn Girl: A Gripping Serial Killer Thriller,Leslie Wolfe,4.6,Kindle,2016
+#YOLO (Ruby Knight Chronicles Book 2),KM Pyne,5.0,Kindle,2017
+Ballpark Mysteries Super Special #1: The World Series Curse,David A. Kelly,4.5,Paperback,2016
+A Friend of Silence (A Roger and Bess Mystery Book 1),M. Lee Prescott,3.9,Kindle,2013
+Murder in the First Edition (Bookstore Mystery),Lauren Elliott,,Mass Market Paperback,2019
+Ballpark Mysteries #12: The Rangers Rustlers,David A. Kelly,4.8,Paperback,2016
+Wedding Cake and Woes (Peridale Cafe Cozy Mystery Book 15),Agatha Frost,4.9,Kindle,2018
+Ballpark Mysteries #12: The Rangers Rustlers,David A. Kelly,4.8,Paperback,2016
+Wedding Cake and Woes (Peridale Cafe Cozy Mystery Book 15),Agatha Frost,4.9,Kindle,2018
+The Mystery of the Blue Dolphins (A Dog Detective Series Book 1),Sandra Baublitz,3.9,Kindle,2014
+Bunburry -  A Taste of Murder: A Cosy Mystery Series (Countryside Mysteries: A Cosy Shorts Series Book 3),Helena Marchmont,4.4,Kindle,2018
+Hidden Secrets: A Whispering Pines Mystery~ Book 4,Shawn McGuire,4.7,Kindle,2018
+Two-Minute Mysteries (Apple Paperbacks),Donald J. Sobol,4.4,Paperback,1991
+The Vanishing Man: A Prequel to the Charles Lenox Series (Charles Lenox Mysteries Book 12),Charles Finch,4.8,Kindle,2019
+Swamp Sniper (A Miss Fortune Mystery~ Book 3),Jana DeLeon,4.8,Kindle,2013
+Justice & Jealousy: A Cozy Sleuth Mystery! (The Amelia Lucas Mystery Series Book 1),Ellie Blake,2.4,Kindle,2015
+Next Door (A Chloe Fine Psychological Suspense Mystery—Book 1),Blake Pierce,4.3,Kindle,2018
+Lily's Homecoming Under Fire Calla Lily Mystery #1 (Calla Lily Mystery Series),Anna Celeste Burke,4.9,Kindle,2019
+Merry Wrath Mysteries Boxed Set Vol. III (Books 7-9),Leslie Langtry,4.8,Kindle,2019
+The London Eye Mystery,Siobhan Dowd,4.2,Paperback,2009
+Once Upon A Murder (A Fairy Tale Mystery Book 1),D.E. Dennis,4.6,Kindle,2019
+Terns of Endearment: A Meg Langslow Mystery (Meg Langslow Mysteries),Donna Andrews,,Hardcover,2019
+Dying for an Education (Hang Ten Australian Cozy Mystery Book 10),Stacey Alabaster,4.7,Kindle,2019
+Unveiled Mysteries (Saint Germain Series; Vol 1),,4.8,Hardcover,1989
+Thicker than Blood (Thicker than Blood series Book 1),C. J. Darlington,4.5,Kindle,2013
+Later Gator (A Miss Fortune Mystery Book 9),Jana DeLeon,4.8,Kindle,2016
+Mystery on Church Hill (The Virginia Mysteries),Steven K. Smith,4.7,Paperback,2013
+Claws for Concern (Cat in the Stacks Mystery),Miranda James,4.6,Mass Market Paperback,2019
+Yesterday's Lost (Yesterday's Mysteries),Sam Cheever,4.5,Kindle,2018
+Heirlooms and Homicide (Hearts Grove Cozy Mystery Book 1),Danielle Collins,4.6,Kindle,2019
+The Complete Murdoch Mysteries Collection: Except the Dying; Under the Dragon's Tail; Poor Tom is Cold; Let Loose the Dogs; Night's Child; Vices of My Blood; Journeyman to Grief,Maureen Jennings,4.6,Kindle,2013
+Revealed in Ephesians: The Mystery of Who I Am in Christ,Briana Nei,4.9,Paperback,2019
+Tripwires,,,Kindle Edition,2019
+Veiled Secrets: A Whispering Pines Mystery~ Book 6,Shawn McGuire,4.9,Kindle,2019
+Armed and Fabulous (Lexi Graves Mysteries Book 1),Camilla Chafer,4.2,Kindle,2013
+Cosmic Mysteries: The Elusive Path Within Christianity,,,Paperback,2019
+A Tale of Mer-der: A Paranormal Witch Cozy Mystery (His Ghoul Friday Book 1),Morgana Best,4.2,Kindle,2019
+Purrfect Secret (The Mysteries of Max Book 8),Nic Saint,4.1,Kindle,2019
+Purrfect Alibi (The Mysteries of Max Book 9),Nic Saint,5.0,Kindle,2019
+Unveiled Mysteries (Saint Germain Series; Vol 1),,4.8,Hardcover,1989
+Thicker than Blood (Thicker than Blood series Book 1),C. J. Darlington,4.5,Kindle,2013
+Later Gator (A Miss Fortune Mystery Book 9),Jana DeLeon,4.8,Kindle,2016
+Mystery on Church Hill (The Virginia Mysteries),Steven K. Smith,4.7,Paperback,2013
+Claws for Concern (Cat in the Stacks Mystery),Miranda James,4.6,Mass Market Paperback,2019
+Yesterday's Lost (Yesterday's Mysteries),Sam Cheever,4.5,Kindle,2018
+Heirlooms and Homicide (Hearts Grove Cozy Mystery Book 1),Danielle Collins,4.6,Kindle,2019
+The Complete Murdoch Mysteries Collection: Except the Dying; Under the Dragon's Tail; Poor Tom is Cold; Let Loose the Dogs; Night's Child; Vices of My Blood; Journeyman to Grief,Maureen Jennings,4.6,Kindle,2013
+Revealed in Ephesians: The Mystery of Who I Am in Christ,Briana Nei,4.9,Paperback,2019
+Tripwires,,,Kindle Edition,2019
+Veiled Secrets: A Whispering Pines Mystery~ Book 6,Shawn McGuire,4.9,Kindle,2019
+Armed and Fabulous (Lexi Graves Mysteries Book 1),Camilla Chafer,4.2,Kindle,2013
+Cosmic Mysteries: The Elusive Path Within Christianity,,,Paperback,2019
+A Tale of Mer-der: A Paranormal Witch Cozy Mystery (His Ghoul Friday Book 1),Morgana Best,4.2,Kindle,2019
+Hidden Secrets: A Whispering Pines Mystery~ Book 4,Shawn McGuire,4.7,Kindle,2018
+Purrfect Secret (The Mysteries of Max Book 8),Nic Saint,4.1,Kindle,2019
+Purrfect Alibi (The Mysteries of Max Book 9),Nic Saint,5.0,Kindle,2019
+the Accidental Audience: a Colbie Colleen Cozy~ Suspense Mystery: "Settle in for a cozy read!",Faith Wood,4.7,Kindle,2015
+Above the Fold & Below the Belt (An Avery Shaw Mystery Book 14),Amanda M. Lee,4.9,Kindle,2019
+Aspen Allegations (A Sutton Massachusetts Mystery Book 1),Lisa Shea,4.0,Kindle,2013
+A Catered New Year’s Eve (A Mystery With Recipes),Isis Crawford,,Hardcover,2019
+Mind Your Manors (A Flamingo Realty Mystery Book 1),CeeCee James,4.5,Kindle,2018
+Hemlocked and Loaded (Spellbound Paranormal Cozy Mystery Book 9),Annabel Chase,4.8,Kindle,2017
+Unlocking the Mysteries of Creation~ The Explorer's Guide to the Awesome Works of God~ Second Edition,Dennis R Petersen,4.9,Hardcover,2012
+Scent of a Killer: An Ella Sweeting Aromatherapy Magic Cozy Mystery (Ella Sweeting: Witch Aromatherapist Cozies Book 1),Lisbeth Reade,4.1,Kindle,2015
+The Haunting of Abram Mansion: A Riveting Haunted House Mystery,Alexandria Clarke,4.4,Kindle,2019
+Lady Rample and the Ghost of Christmas Past (Lady Rample Mysteries Book 5),Shéa MacLeod,4.2,Kindle,2018
+Mistaken Trust: a crime suspense thriller (Jewels Trust Book 1),Shirley Spain,4.3,Kindle,2014
+Soldiers of Fortune (A Miss Fortune Mystery Book 6),Jana DeLeon,4.8,Kindle,2015
+Witch out of Luck (A Blair Wilkes Mystery Book 6),Elle Adams,4.5,Kindle,2019
+Moon Mysteries,,4.8,Perfect Paperback,2011
+Death Waits in the Dark (A Writer's Apprentice Mystery Book 4),Julia Buckley,4.6,Kindle,2019
+Murder on Main: A Cruise Ship Mystery (Cruise Ship Christian Cozy Mysteries Series Book 12),Hope Callaghan,4.8,Kindle,2017
+Murder at the Dog Training Academy (Wagging Tail Cozy Mystery Book 4),Cindy Bell,4.7,Kindle,2019
+Cinnamon Cookies & Murder: A Sweet Treats Cozy Mystery Book 11,Lori Woods,4.5,Kindle,2018
+Dog Days Murderous Nights: Winnona Peaks Mysteries Book 1,Emily Page,3.7,Kindle,2015
+Rhapsody in Red (A Preston Barclay Mystery Book 1),Donn Taylor,4.6,Kindle,2018
+Much Ado about Wicked Witness (Paranormal in Manhattan Mystery: A Cozy Mystery Book 19),Lotta Smith,4.5,Kindle,2019
+Final Witness,James Scott Bell,4.6,Kindle,2014
+Ballpark Mysteries #6: The Wrigley Riddle,David A. Kelly,4.8,Paperback,2013
+Mysteries of Treasure Cove Cozy Mystery Boxed Set,Meredith Potts,3.7,Kindle,2018
+Probable Claws: A Mrs. Murphy Mystery,Rita Mae Brown,4.0,Mass Market Paperback,2019
+A Body in the Backyard (Myrtle Clover Mysteries Book 4),Elizabeth Spann Craig,4.1,Kindle,2012
+Killer Climate (The Campervan Bushman Mystery Series Book 1),Alannah Foley,3.5,Kindle,2015
+Conductor of Light (Free Short Story) (Herringford and Watts Mysteries),Rachel McMillan,3.4,Kindle,2017
+Hushabye (A Kate Redman Mystery: Book 1) (The Kate Redman Mysteries),Celina Grace,4.1,Kindle,2013
+Motel of the Mysteries,,4.6,Paperback,1979
+Murder at the Old House: A gripping and unputdownable cozy mystery novel (A Melissa Craig Mystery Book 10),Betty Rowlands,4.5,Kindle,2019
